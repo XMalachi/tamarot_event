@@ -1,0 +1,229 @@
+           
+
+nav .mainMenu li a:hover {
+    background: none;
+    color:khaki;
+    font-size: 1.4rem;
+}
+
+
+
+.pastworktext {
+    color: rgb(77, 36, 77);
+    justify-content: center;
+    text-align: center;
+}
+
+.pastworktext h1 {
+    font-weight: 500;
+}
+.pastworktext h2 {
+    font-weight: 20;
+}
+.pastworktext h4 {
+    font-weight: 20;
+}
+
+.pastworktext a {
+    text-decoration: none;
+}
+.pastworktext a:hover {
+    color: rgb(38, 14, 41);
+    font-size: 1.2em;
+    transition: 0.5s;
+}
+
+.pastwork {
+    background-color: rgb(250, 237, 212);
+
+}
+
+.pastwork img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+
+.eventplanning img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+
+.decoration img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+
+.weddinggowns img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+
+.rentals img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+.training img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+
+.training {
+    background-color: rgba(235, 172, 231, 0.966);
+}
+.rentals {
+    background-color: rgba(36, 10, 32, 0.966);
+}
+
+.weddinggowns {
+    background-color: rgba(36, 10, 32, 0.966);
+}
+
+.weddinggowns h2 {
+    color: blanchedalmond;
+}
+
+.weddinggowns h4 {
+    color: blanchedalmond;
+}
+
+.rentals h2 {
+    color: blanchedalmond;
+}
+
+.rentals h4 {
+    color: blanchedalmond;
+}
+
+/*footer styles*/
+footer {
+    align-items: center;
+    background-color: rgba(248, 248, 248, 0.808);
+    text-align: center;
+}
+.footertext {
+    color: rgb(14, 26, 14);
+    
+}
+.footertext h2 {
+    color: rgb(14, 26, 14);
+    font-weight: 400;
+}
+
+
+.location {
+    display: inline-flex;
+    
+}
+
+.location i {
+    display: inline-flex; 
+    padding-right: 1em; 
+}
+
+.phone {
+    display: inline-flex;
+    padding: 1em;
+    
+}
+.phone i {
+    display: inline-flex;
+    padding-right: 1em;
+}
+
+.icons{
+    display: inline-flex;  
+}
+
+We founded Tamarot Style Events with the aim of
+                creating unique styles, that will fill many minds
+                with lasting memories.<br>
+                We reachout to and satisfy the need of every class 
+                of people with beautiful decorations. 
+                We look forward to making your event a real-life fairytale.
+        </div>
+
+
+
+        .pastworkitems {
+    width: 100%;
+    display: grid;
+    background: rgb(27, 4, 25);
+    box-sizing: border-box;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.one {
+    flex: 1;
+    background: rgb(32, 3, 32);
+    padding: 50px;
+    font-size: 100%;
+    font-weight: 20;
+}
+
+.two {
+    flex: 1;
+    background: rgb(51, 47, 51);
+    padding: 50px;
+    font-size: 100%;
+    font-weight: 20;
+}
+
+.six {
+    flex: 1;
+    background: rgb(247, 241, 247);
+    padding: 50px;
+    font-size: 100%;
+    font-weight: 20;
+}
+
+
+
+
+.decoration img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+
+.weddinggowns img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+
+.rentals img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
+.training img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 70vmin;
+    padding-bottom: 2em;
+    width: 70vmin;
+}
