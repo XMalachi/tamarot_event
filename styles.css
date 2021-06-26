@@ -61,19 +61,19 @@ nav .openMenu {
     color: black;
 }
 /*nav icons styles*/
-.fa-whatsapp:hover {
+.bi-whatsapp:hover {
     color: rgb(108, 238, 115);
     transition: 0.5s ease;
 }
-.fa-facebook:hover {
+.bi-facebook:hover {
     transition: 0.5s ease;
     color: rgb(108, 108, 238);
 }
-.fa-instagram:hover {
+.bi-instagram:hover {
     transition: 0.5s ease;
     color: rgb(238, 108, 195);
 }
-.fa-phone:hover {
+.bi-phone:hover {
     transition: 0.5s ease;
     color: rgb(207, 124, 45);
 }
@@ -147,10 +147,8 @@ nav .openMenu {
     position: relative; 
 }
 
-.aboutimages .imgaboutwait img {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    height: 100%;
+.about-img {
+    height: 70vh;
     width: 100%;
 }
 
@@ -188,9 +186,9 @@ nav .openMenu {
 
 .pastwork img {
     border-radius: 50%;
-    display: inline-flex;
+    display: inline-block;
     height: 70vmin;
-    padding-bottom: 2em;
+    margin-bottom: 2em;
     width: 70vmin;
 }
 
@@ -295,7 +293,7 @@ footer .footericons {
 }
 
 
-.fa-angle-double-up {
+.bi-double-up {
     float: right;
     color: rgb(56, 9, 52);
     font-size: 40px;
