@@ -13,7 +13,7 @@ body {
 }
 
 /*nav styles*/
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
 
 nav {
     align-items: center;
@@ -27,8 +27,8 @@ nav {
 .nav-title h1 {
     color: rgb(106, 38, 122);
     font-weight: 5;
-    font-size: 250%;  
-    font-family: 'Luckiest Guy', cursive; 
+    font-size: 350%;  
+    font-family: 'Festive', cursive; 
 }
 
 nav .mainMenu {
@@ -110,16 +110,20 @@ nav .openMenu {
     color: rgb(248, 239, 223);
     font-weight: 300;
     display: block;
-
+    text-align: center;
 }
 .description {
     padding: 5px;
 }
+.descriptionname {
+    
+}
 .about h1 {
     font-weight: 100;
     margin-left: 0.5em;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Festive', cursive;
     color: rgba(252, 255, 234, 0.589);
+    
 }
 
 .aboutimages  {
@@ -155,7 +159,7 @@ nav .openMenu {
     padding: 0.5em;
     background-color: grey;
     text-transform: uppercase;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Festive', cursive;
 }
 .pastworktext h2 {
     font-weight: 700;
@@ -163,7 +167,7 @@ nav .openMenu {
     text-transform: uppercase;
     color: rgba(95, 12, 54, 0.363);
     padding: 0.5em;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Festive', cursive;
 }
 .pastworktext h4 {
     font-weight: 400;
@@ -310,7 +314,7 @@ footer {
 .footertext h2 {
     color: rgba(73, 19, 57, 0.582);
     font-weight: 400;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Festive', cursive;
 }
 
 footer .footericons {
@@ -430,9 +434,10 @@ nav .openMenu {
 /* nav bar response end */
 /* description response */
 .description {
-    padding: 5px;
-    font-size: 1.5em;
+    padding: 15pxpx;
+    font-size: 2.5em;
 }
+
 }
 @media only screen and (max-width: 667px) {
 
@@ -441,8 +446,8 @@ nav .openMenu {
 
 .nav-title h1 {
     font-weight: 5;
-    font-size: 150%;
-    font-family: 'Luckiest Guy', cursive; 
+    font-size: 250%;
+    font-family: 'Festive', cursive; 
 }
 
 nav .mainMenu {
@@ -504,7 +509,7 @@ nav .openMenu {
 
 .about h1 {
     font-weight: 100;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Festive', cursive;
 }
 
 .imgabout img {
