@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@500&&display=swap');
+
 /*universal*/
 * {
     box-sizing: border-box;
@@ -13,7 +15,6 @@ body {
 }
 
 /*nav styles*/
-@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
 
 nav {
     align-items: center;
@@ -26,9 +27,8 @@ nav {
 
 .nav-title h1 {
     color: rgb(106, 38, 122);
-    font-weight: 5;
-    font-size: 350%;  
-    font-family: 'Festive', cursive; 
+    font-size: 150%;  
+    font-family: 'Merienda', cursive; 
 }
 
 nav .mainMenu {
@@ -115,13 +115,12 @@ nav .openMenu {
 .description {
     padding: 5px;
 }
-.descriptionname {
     
-}
+
 .about h1 {
     font-weight: 100;
     margin-left: 0.5em;
-    font-family: 'Festive', cursive;
+    font-family: 'Merienda', cursive;
     color: rgba(252, 255, 234, 0.589);
     
 }
@@ -159,7 +158,7 @@ nav .openMenu {
     padding: 0.5em;
     background-color: grey;
     text-transform: uppercase;
-    font-family: 'Festive', cursive;
+    font-family: 'Merienda', cursive;
 }
 .pastworktext h2 {
     font-weight: 700;
@@ -167,7 +166,7 @@ nav .openMenu {
     text-transform: uppercase;
     color: rgba(95, 12, 54, 0.363);
     padding: 0.5em;
-    font-family: 'Festive', cursive;
+    font-family: 'Merienda', cursive;
 }
 .pastworktext h4 {
     font-weight: 400;
@@ -314,7 +313,7 @@ footer {
 .footertext h2 {
     color: rgba(73, 19, 57, 0.582);
     font-weight: 400;
-    font-family: 'Festive', cursive;
+    font-family: 'Merienda', cursive;
 }
 
 footer .footericons {
@@ -447,7 +446,7 @@ nav .openMenu {
 .nav-title h1 {
     font-weight: 5;
     font-size: 250%;
-    font-family: 'Festive', cursive; 
+    font-family: 'Merienda', cursive; 
 }
 
 nav .mainMenu {
@@ -509,7 +508,7 @@ nav .openMenu {
 
 .about h1 {
     font-weight: 100;
-    font-family: 'Festive', cursive;
+    font-family: 'Merienda', cursive;
 }
 
 .imgabout img {
