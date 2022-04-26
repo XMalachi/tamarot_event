@@ -200,59 +200,33 @@ nav .openMenu {
 
 /* carousel starts */
 /* gallerycover */
-.gallerycover {
-    background-color: rgb(48, 46, 46);
-    margin: 0;
-    display: inline-block;
-    height: 100%;
-    width: 100%;
-}
 
-
-/* gallery style */
-.gallery {
-    margin: 40px 200px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+.mySlides {
+    height: 500px;
+    width: 557px;
 }
-
-/* image styles */
-.gallery img {
-    transition: 1s;
-    padding: 15px;
-    width: 250px;
+.pitches h1{
+    font-size: 3em;
+    color:rgb(221, 213, 226);
 }
-/* image hover */
-.gallery img:hover {
-    filter: grayscale(100%);
-    transform: scale(1.1);
+.pitches p{
+    color: plum;
 }
-.galleryh1 {
-    font-size: 2em;
-    color: rgba(153, 75, 148, 0.589);
-    margin: 1em;
-    text-transform: uppercase;
+.light {
+    color: rgb(201, 93, 201);
 }
-.gallerycover a {
+.learnMore a{
+    color: black;
+    background-color: rgb(231, 229, 159);
+    padding: 10px;
+    border-radius: 20px;
     text-decoration: none;
 }
-.gallerycover a h1:hover {
-    filter: grayscale(100%);
-    transform: scale(0.9);
+.learnMore a:hover{
+    padding-right: 0 30px;
+    letter-spacing: 4px;
+    transition: 0.5s;
 }
-
-#carouselExampleIndicators {
-    background-color: rgb(12, 11, 9);
-    padding: 50px;
-    text-align: center;
-}
-.carousel-inner {
-    max-width: 70%;
-    max-height: 40%;
-    text-align: center;
-}
-
-/* carousel ends */
 
 /*Past work page styles*/
 

@@ -1,518 +1,268 @@
-           
+<!-- Light box start -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="3000">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="18"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="19"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="20"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="21"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="22"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="23"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="24"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="25"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="26"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="27"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="27"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="28"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="29"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="30"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="31"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="32"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="33"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="34"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="35"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="36"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="37"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="38"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="39"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="40"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="41"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="42"></li>
 
-nav .mainMenu li a:hover {
-    background: none;
-    color:khaki;
-    font-size: 1.4rem;
-}
-data-lightbox="mygallery" data-title="Tamarot Images"
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="tampics/tama23.jpg" alt="First slide">
+                </div>
 
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama92.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama99.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama103.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama104.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama109.jpg" alt="Next slide">
+                </div>
+                
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama18.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama19.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama21.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama22.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama2.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama24.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama3.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama4.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama10.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama9.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama37.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama54.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama14.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama5.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama40.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama17.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama87.jpg" alt="Next slide">
+                </div>          
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama88.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama70.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama71.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama66.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama58.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama57.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama59.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama55.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama32.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama78.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama77.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama82.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama79.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama84.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama85.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama83.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama81.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama86.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama80.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama94.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama102.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama105.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama100.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama93.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama95.jpg" alt="Next slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="tampics/tama101.jpg" alt="Next slide">
+                </div>
 
-.pastworktext {
-    color: rgb(77, 36, 77);
-    justify-content: center;
-    text-align: center;
-}
-
-.pastworktext h1 {
-    font-weight: 500;
-}
-.pastworktext h2 {
-    font-weight: 20;
-}
-.pastworktext h4 {
-    font-weight: 20;
-}
-
-.pastworktext a {
-    text-decoration: none;
-}
-.pastworktext a:hover {
-    color: rgb(38, 14, 41);
-    font-size: 1.2em;
-    transition: 0.5s;
-}
-
-.pastwork {
-    background-color: rgb(250, 237, 212);
-
-}
-
-.pastwork img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-
-.eventplanning img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-
-.decoration img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-
-.weddinggowns img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-
-.rentals img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-.training img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-
-.training {
-    background-color: rgba(235, 172, 231, 0.966);
-}
-.rentals {
-    background-color: rgba(36, 10, 32, 0.966);
-}
-
-.weddinggowns {
-    background-color: rgba(36, 10, 32, 0.966);
-}
-
-.weddinggowns h2 {
-    color: blanchedalmond;
-}
-
-.weddinggowns h4 {
-    color: blanchedalmond;
-}
-
-.rentals h2 {
-    color: blanchedalmond;
-}
-
-.rentals h4 {
-    color: blanchedalmond;
-}
-
-/*footer styles*/
-footer {
-    align-items: center;
-    background-color: rgba(248, 248, 248, 0.808);
-    text-align: center;
-}
-.footertext {
-    color: rgb(14, 26, 14);
-    
-}
-.footertext h2 {
-    color: rgb(14, 26, 14);
-    font-weight: 400;
-}
-
-
-.location {
-    display: inline-flex;
-    
-}
-
-.location i {
-    display: inline-flex; 
-    padding-right: 1em; 
-}
-
-.phone {
-    display: inline-flex;
-    padding: 1em;
-    
-}
-.phone i {
-    display: inline-flex;
-    padding-right: 1em;
-}
-
-.icons{
-    display: inline-flex;  
-}
-
-We founded Tamarot Style Events with the aim of
-                creating unique styles, that will fill many minds
-                with lasting memories.<br>
-                We reachout to and satisfy the need of every class 
-                of people with beautiful decorations. 
-                We look forward to making your event a real-life fairytale.
+                
+            </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
         </div>
 
 
-
-        .pastworkitems {
-    width: 100%;
-    display: grid;
-    background: rgb(27, 4, 25);
-    box-sizing: border-box;
-    grid-template-columns: 1fr 1fr 1fr;
-}
-
-.one {
-    flex: 1;
-    background: rgb(32, 3, 32);
-    padding: 50px;
-    font-size: 100%;
-    font-weight: 20;
-}
-
-.two {
-    flex: 1;
-    background: rgb(51, 47, 51);
-    padding: 50px;
-    font-size: 100%;
-    font-weight: 20;
-}
-
-.six {
-    flex: 1;
-    background: rgb(247, 241, 247);
-    padding: 50px;
-    font-size: 100%;
-    font-weight: 20;
-}
-
-
-
-
-.decoration img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-
-.weddinggowns img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-
-.rentals img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-.training img {
-    border-radius: 50%;
-    display: inline-block;
-    height: 70vmin;
-    padding-bottom: 2em;
-    width: 70vmin;
-}
-
-
-<div class="row">
-            <div class="column">
-                <img src="tampics/tama1.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow">
-            </div>
-            <div class="column">
-                <img src="tampics/tama2.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow">
-            </div>
-            <div class="column">
-                <img src="tampics/tama3.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow">
-            </div>
-            <div class="column">
-                <img src="tampics/tama33.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow">
-            </div>
-        </div>
-            
-          <!-- The Modal/Lightbox -->
-        <id="myModal" class="modal">
-            <span class="close cursor" onclick="closeModal()">&times;</span>
-            
-            <div class="modal-content">
-          
-                <div class="mySlides">
-                    <div class="numbertext">1 / 6</div>
-                    <img src="tampics/tama1.jpg" style="width:100%">
-                </div>
-          
-                <div class="mySlides">
-                    <div class="numbertext">2 / 6</div>
-                    <img src="tampics/tama2.jpg" style="width:100%">
-                </div>
-          
-                <div class="mySlides">
-                    <div class="numbertext">3 / 6</div>
-                    <img src="tampics/tama3.jpg" style="width:100%">
-                </div>
-
-                <div class="mySlides">
-                    <div class="numbertext">4 / 6/div>
-                    <img src="tampics/tama4.jpg" style="width:100%">
-                </div>
-          
-                <div class="mySlides">
-                    <div class="numbertext">5 / 6</div>
-                    <img src="tampics/tama5.jpg" style="width:100%">
-                </div>
-
-                <div class="mySlides">
-                    <div class="numbertext">6 / 6</div>
-                    <img src="tampics/tama6.jpg" style="width:100%">
-                </div>
-          
-              <!-- Next/previous controls -->
-              <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-              <a class="next" onclick="plusSlides(1)">&#10095;</a>
-          
-              <!-- Caption text -->
-              <div class="caption-container">
-                <p id="caption"></p>
-              </div>
-          
-              <!-- Thumbnail image controls -->
-              <div class="column">
-                <img class="demo" src="img1.jpg" onclick="currentSlide(1)" alt="Nature">
-              </div>
-          
-              <div class="column">
-                <img class="demo" src="img2.jpg" onclick="currentSlide(2)" alt="Snow">
-              </div>
-          
-              <div class="column">
-                <img class="demo" src="img3.jpg" onclick="currentSlide(3)" alt="Mountains">
-              </div>
-          
-              <div class="column">
-                <img class="demo" src="img4.jpg" onclick="currentSlide(4)" alt="Lights">
-              </div>
-            </div>
-          </id=>
-
-
-          .row > .column {
-    padding: 0 8px;
-}
-  
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-/* Create four equal columns that floats next to eachother */
-.column {
-float: left;
-width: 25%;
-}
-
-/* The Modal (background) */
-.modal {
-display: none;
-position: fixed;
-z-index: 1;
-padding-top: 100px;
-left: 0;
-top: 0;
-width: 100%;
-height: 100%;
-overflow: auto;
-background-color: black;
-}
-
-/* Modal Content */
-.modal-content {
-position: relative;
-background-color: #fefefe;
-margin: auto;
-padding: 0;
-width: 90%;
-max-width: 1200px;
-}
-
-/* The Close Button */
-.close {
-color: white;
-position: absolute;
-top: 10px;
-right: 25px;
-font-size: 35px;
-font-weight: bold;
-}
-
-.close:hover,
-.close:focus {
-color: #999;
-text-decoration: none;
-cursor: pointer;
-}
-
-/* Hide the slides by default */
-.mySlides {
-display: none;
-}
-
-/* Next & previous buttons */
-.prev,
-.next {
-cursor: pointer;
-position: absolute;
-top: 50%;
-width: auto;
-padding: 16px;
-margin-top: -50px;
-color: white;
-font-weight: bold;
-font-size: 20px;
-transition: 0.6s ease;
-border-radius: 0 3px 3px 0;
-user-select: none;
--webkit-user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-right: 0;
-border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
-background-color: rgba(0, 0, 0, 0.8);
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-color: #f2f2f2;
-font-size: 12px;
-padding: 8px 12px;
-position: absolute;
-top: 0;
-}
-
-/* Caption text */
-.caption-container {
-text-align: center;
-background-color: black;
-padding: 2px 16px;
-color: white;
-}
-
-img.demo {
-opacity: 0.6;
-}
-
-.active,
-.demo:hover {
-opacity: 1;
-}
-
-img.hover-shadow {
-transition: 0.3s;
-}
-
-.hover-shadow:hover {
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-html,body {
-    background: #222;
-    color: #aaa;
-    text-align:center;
-  }
-  
-  p {
-    margin: 1.5em;
-    color: #aaa;
-  }
-  
-  img {
-    max-height: 50vh;
-  }
-  
-  a {
-    color: inherit;
-  }
-  
-  a:hover {
-    color: #bbb;
-  }
-  
-  /** LIGHTBOX MARKUP **/
-  
-  .lightbox {
-    /* Default to hidden */
-    display: none;
-  
-    /* Overlay entire screen */
-    position: fixed;
-    z-index: 999;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    
-    /* A bit of padding around image */
-    padding: 1em;
-  
-    /* Translucent background */
-    background: rgba(0, 0, 0, 0.8);
-  }
-  
-  /* Unhide the lightbox when it's the target */
-  .lightbox:target {
-    display: block;
-  }
-  
-  .lightbox span {
-    /* Full width and height */
-    display: block;
-    width: 100%;
-    height: 100%;
-  
-    /* Size and position background image */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-  }
-
-
-  <link href="https://fonts.googleapis.com/css?family=Raleway:200,100,400" rel="stylesheet" type="text/css" />
-<p>Click the thumbnail below to activate the lightbox</p>
-
-<!-- thumbnail image wrapped in a link -->
-<a href="#img1">
-  <img src="Tampics/tama33.jpg">
-</a>
-
-
-<!-- lightbox container hidden with CSS -->
-<a href="#" class="lightbox" id="img1">
-  <span style="background-image: url('Tampics/tama33.jpg')"></span>
-</a>
-<a href="#" class="lightbox" id="img2">
-    <span style="background-image: url('Tampics/tama23.jpg')"></span>
-  </a>
-<p class="italic small">
-   <a href="#contact">Contact Tamarot</a>
-</p>
+        /* styles */
+        .gallerycover {
+            background-color: rgb(48, 46, 46);
+            margin: 0;
+            display: inline-block;
+            height: 100%;
+            width: 100%;
+        }
+        
+        
+        /* gallery style */
+        .gallery {
+            margin: 40px 200px;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+        }
+        
+        /* image styles */
+        .gallery img {
+            transition: 1s;
+            padding: 15px;
+            width: 250px;
+        }
+        
+        /* image hover */
+        .gallery img:hover {
+            filter: grayscale(100%);
+            transform: scale(1.1);
+        }
+        .galleryh1 {
+            font-size: 2em;
+            color: rgba(153, 75, 148, 0.589);
+            margin: 1em;
+            text-transform: uppercase;
+        }
+        .gallerycover a {
+            text-decoration: none;
+        }
+        .gallerycover a h1:hover {
+            filter: grayscale(100%);
+            transform: scale(0.9);
+        }
+        
+        #carouselExampleIndicators {
+            background-color: rgb(12, 11, 9);
+            padding: 50px;
+            text-align: center;
+        }
+        .carousel-inner {
+            max-width: 70%;
+            max-height: 40%;
+            text-align: center;
+        }
+        
+        /* carousel ends */
